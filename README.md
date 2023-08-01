@@ -22,5 +22,7 @@ esse é um subsubtitulo
 2. Essa é a segunda linha da minha lista numerada
 3. essa é a terceira linha
 # Alice
+![Static Badge](https://img.shields.io/badge/%20-pandas-black?style=plano&logo=pandas&logoColor=blue&cacheSeconds=%203600)
+
 
 <font style="vertical-align: inherit;"><font style="vertical-align: inherit;">#150458</font></font>
