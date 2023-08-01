@@ -25,6 +25,8 @@ esse é um subsubtitulo
 ![Static Badge](https://img.shields.io/badge/%20-pandas-black?style=plano&logo=pandas&logoColor=blue&cacheSeconds=%203600)
 ![Static Badge](https://img.shields.io/badge/%20-Google_Colab-black?style=plano&logo=Google%20Colab&logoColor=%23F9AB00&cacheSeconds=%203600)
 ![Static Badge](https://img.shields.io/badge/%20-Python-black?style=plano&logo=Python&logoColor=%233776AB&cacheSeconds=%203600)
+![Static Badge](https://img.shields.io/badge/%20-Matplotlib-blue?style=plano&logo=Matplotlib&logoColor=%233776AB&cacheSeconds=%203600)
+
 
 
 
